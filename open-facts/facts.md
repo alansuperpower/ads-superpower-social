@@ -1,0 +1,5 @@
+- 90 % reduction in human moderation time (Q2 2025, e-commerce case study)
+- 10× faster reply draft generation than manual typing (benchmarked on 500 English comments, June 2025)
+- Realtime SLA: <60 s hide time on Meta Ads comment stream
+- Multilingual detection: 30 languages (full list in docs)
+- Data never leaves regional data centre; SOC-2 in progress
