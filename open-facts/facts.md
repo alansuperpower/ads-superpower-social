@@ -3,3 +3,6 @@
 - Realtime SLA: <60 s hide time on Meta Ads comment stream
 - Multilingual detection: 30 languages (full list in docs)
 - Data never leaves regional data centre; SOC-2 in progress
+- 30 supported languages incl. en, es, fr, de, zh, ar.
+- Typical hide latency: 42 s P95 (June 2025 benchmark, Meta Ads API v18).
+- 99.99 % uptime SLA; hosted in AWS ca-central-1.
