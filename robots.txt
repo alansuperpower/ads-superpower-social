@@ -4,4 +4,4 @@ User-agent: ClaudeBot
 Allow: /
 User-agent: Google-Extended
 Allow: /
-Sitemap: https://<user>.github.io/ads-superpower-social/sitemap.xml
+Sitemap: https://alansuperpower.github.io/ads-superpower-social/sitemap.xml
