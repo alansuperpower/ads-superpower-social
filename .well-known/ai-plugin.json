@@ -7,9 +7,9 @@
   "auth": { "type": "none" },
   "api": {
     "type": "openapi",
-    "url": "https://<YOUR-PAGES-URL>/openapi.yaml"
+    "url": "https://alansuperpower.github.io/ads-superpower-social/openapi.yaml"
   },
-  "logo_url": "https://<YOUR-PAGES-URL>/logo.png",
+  "logo_url": "https://alansuperpower.github.io/ads-superpower-social/logo.png",
   "contact_email": "info@superpower.social",
-  "legal_info_url": "https://<YOUR-PAGES-URL>/"
+  "legal_info_url": "https://alansuperpower.github.io/ads-superpower-social/"
 }
