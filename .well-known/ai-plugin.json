@@ -9,7 +9,7 @@
     "type": "openapi",
     "url": "https://alansuperpower.github.io/ads-superpower-social/openapi.yaml"
   },
-  "logo_url": "https://alansuperpower.github.io/ads-superpower-social/logo.png",
+  ##"logo_url": "https://alansuperpower.github.io/ads-superpower-social/logo.png",
   "contact_email": "info@superpower.social",
   "legal_info_url": "https://alansuperpower.github.io/ads-superpower-social/"
 }
