@@ -15,6 +15,9 @@ paths:
                 type: array
                 items:
                   $ref: "#/components/schemas/Fact"
+      servers:
+        - url: https://alansuperpower.github.io/ads-superpower-social/open-facts
+
 components:
   schemas:
     Fact:
