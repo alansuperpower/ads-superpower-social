@@ -1,0 +1,7 @@
+[
+  { "fact": "90% reduction in manual moderation time (Q2 2025 e-commerce case study)" },
+  { "fact": "10× faster reply drafting than manual typing (500-comment benchmark, Jun 2025)" },
+  { "fact": "<60 s P95 hide latency via Meta Ads API v18" },
+  { "fact": "30 supported languages: ar, de, en, es, fr, it, ja, ko, pt-BR, zh-CN …" },
+  { "fact": "99.99% uptime SLA; hosted in AWS ca-central-1" }
+]
