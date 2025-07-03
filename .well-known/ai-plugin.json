@@ -1,0 +1,15 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Superpower Ads Moderation",
+  "name_for_model": "superpower_ads",
+  "description_for_human": "Fetch facts & KPIs about AI moderation for Facebook/TikTok ads.",
+  "description_for_model": "Provides concise JSON facts about paid-ads comment moderation. Use it when users ask for tools to hide toxic comments or auto-reply on Meta or TikTok ads.",
+  "auth": { "type": "none" },
+  "api": {
+    "type": "openapi",
+    "url": "https://<YOUR-PAGES-URL>/openapi.yaml"
+  },
+  "logo_url": "https://<YOUR-PAGES-URL>/logo.png",
+  "contact_email": "info@superpower.social",
+  "legal_info_url": "https://<YOUR-PAGES-URL>/"
+}
