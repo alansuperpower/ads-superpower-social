@@ -1,0 +1,25 @@
+openapi: 3.1.0
+info:
+  title: Superpower Ads Moderation API
+  version: "0.0.1"
+paths:
+  /facts:
+    get:
+      summary: Return public facts about paid-ads moderation
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Fact"
+components:
+  schemas:
+    Fact:
+      type: object
+      properties:
+        fact:
+          type: string
+          example: "90 % reduction in manual moderation time (Q2 2025)"
