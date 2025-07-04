@@ -26,3 +26,9 @@ components:
         fact:
           type: string
           example: "90 % reduction in manual moderation time (Q2 2025)"
+servers:
+  - url: https://bold-wave-9be7.alan-2d6.workers.dev/
+paths:
+  /:
+    get:
+      summary: Return public facts …
