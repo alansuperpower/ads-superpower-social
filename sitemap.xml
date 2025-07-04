@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url><loc>https://alansuperpower.github.io/ads-superpower-social/</loc></url>
+ {
+  "url": "https://alansuperpower.github.io/ads-superpower-social/#faq",
+  "tldr": "FAQ: impact on ad relevance, multilingual coverage, OAuth security.",
+  "last_updated": "2025-07-04"
+}
+
  <url><loc>https://alansuperpower.github.io/ads-superpower-social/fb-cleaner.html</loc></url>
  <url><loc>https://alansuperpower.github.io/ads-superpower-social/tiktok-filter.html</loc></url>
 </urlset>
