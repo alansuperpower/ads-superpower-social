@@ -12,4 +12,6 @@
 
   "contact_email": "info@superpower.social",
   "legal_info_url": "https://alansuperpower.github.io/ads-superpower-social/"
-}
+},
+"auth": { "type": "none" },
+"api_base_url": "https://bold-wave-9be7.alan-2d6.workers.dev/"
